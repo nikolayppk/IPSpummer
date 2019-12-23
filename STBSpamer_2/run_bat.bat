@@ -1,0 +1,1 @@
+java -cp STBSpamer.jar application.Main

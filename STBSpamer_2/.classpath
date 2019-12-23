@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_191"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/fluent-hc-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/httpclient-cache-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/httpclient-win-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/httpmime-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/http-request-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/jna-platform-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/12/Desktop/JAVA/new/STBSpamer_2/libs/sikulixapi.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

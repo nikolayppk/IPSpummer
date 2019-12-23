@@ -1,0 +1,82 @@
+#
+
+*
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Back
+
+Blue
+Channel Down
+
+Channel Up
+
+Clock
+
+Down
+
+Expand
+Fast Forward
+
+Green
+Guide
+
+Internet
+
+Last
+
+Left
+
+Mail
+Menu
+
+Order Movie
+Pause
+
+Play
+
+Power Off
+
+Record List
+
+Record List
+
+Record
+
+Red
+
+Rewind
+
+Right
+
+Select
+
+Status
+
+Stop
+
+TV/Radio
+Up
+Volume Dowe
+Volume Mute
+
+Volume Up
+Yellow
